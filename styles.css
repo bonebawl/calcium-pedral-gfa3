@@ -2,7 +2,7 @@ body{
     background-image:url('imgs/preview.png');
     background-repeat:no-repeat;
     background-size:cover;
-    background-position-y:-500px;
+    background-position-y:-200px;
 }
 div#container{
     background-color:burlywood;
